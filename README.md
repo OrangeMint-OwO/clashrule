@@ -1,2 +1,2 @@
 # clashrule
-自用
+自用：基于ACL4SSR
