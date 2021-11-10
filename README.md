@@ -1,0 +1,2 @@
+# clashrule
+自用
