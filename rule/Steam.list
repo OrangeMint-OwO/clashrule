@@ -6,6 +6,7 @@ DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,community.akamai.steamstatic.com
+DOMAIN,cm.steampowered.com
 DOMAIN,steampipe.steamcontent.tnkjmec.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,st.dl.eccdnx.com
@@ -13,16 +14,13 @@ DOMAIN,st.dl.bscstorage.net
 DOMAIN,st.dl.pinyuncloud.com
 DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com
 DOMAIN,cdn-ws.content.steamchina.com
-DOMAIN,cdn-qc.content.steamchina.com
-DOMAIN,cdn-ali.content.steamchina.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN-SUFFIX,akamaized.net
-DOMAIN,steampipe.akamaized.net
 DOMAIN,steampipe.akamaized.net
 DOMAIN,steampipe-kr.akamaized.net
 DOMAIN,steampipe-partner.akamaized.net
 DOMAIN,steam.eca.qtlglb.com
 DOMAIN,steam.naeu.qtlglb.com
 DOMAIN,steam.ru.qtlglb.com
-DOMAIN,level3.cdn.steampipe.steamcontent.com
+DOMAIN,cdn.steampipe.steamcontent.com
 DOMAIN,edge.steam-dns.top.comcast.net
