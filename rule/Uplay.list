@@ -1,0 +1,7 @@
+# 内容：Uplay
+# 数量：5条
+DOMAIN,connect.ubisoft.com
+DOMAIN,store.ubi.com
+DOMAIN,public-ubiservices.ubi.com
+DOMAIN-SUFFIX,ubisoft.com
+DOMAIN-SUFFIX,ubi.com
