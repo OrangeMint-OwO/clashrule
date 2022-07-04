@@ -1,12 +1,12 @@
-# 内容：Steam2
-# 数量：6条
+# 内容：Steam
+# 数量：7条
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,steamstore-a.akamaihd.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,community.akamai.steamstatic.com
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,dl.steam.clngaa.com
 DOMAIN-SUFFIX,st.dl.eccdnx.com
