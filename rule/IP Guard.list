@@ -1,7 +1,8 @@
 # 内容：IP Guard
-DOMAIN,apiintl.biliapi.net
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN,api.bilibili.com
-DOMAIN,account.bilibili.com
-DOMAIN,data.bilibili.com
+DOMAIN,biliapi.com
+DOMAIN,biliapi.net
+DOMAIN-SUFFIX,api.bilibili.com
+DOMAIN-SUFFIX,app.bilibili.com
+DOMAIN-SUFFIX,account.bilibili.com
+DOMAIN-SUFFIX,data.bilibili.com
+DOMAIN-SUFFIX,api.bilibili.com/x/v2/reply/add
