@@ -28,3 +28,4 @@ DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
 # test
 DOMAIN,api.bilibili.com
 DOMAIN,account.bilibili.com
+DOMAIN,data.bilibili.com
