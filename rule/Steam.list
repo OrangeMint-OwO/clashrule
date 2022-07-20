@@ -25,7 +25,3 @@ DOMAIN-SUFFIX,steam.naeu.qtlglb.com
 DOMAIN-SUFFIX,steam.ru.qtlglb.com
 DOMAIN-SUFFIX,level3.cdn.steampipe.steamcontent.com
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
-# test
-DOMAIN,api.bilibili.com
-DOMAIN,account.bilibili.com
-DOMAIN,data.bilibili.com
