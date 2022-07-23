@@ -33,19 +33,19 @@
         # 微信公众号评论
          - DOMAIN,mp.weixin.qq.com,IP归属地 # 微信公众号，不存在单独的API域名
         # 微信视频号评论
-        # - DOMAIN,szshort.weixin.qq.com,IP归属地 # 疑似微信视频号，用途未知
+         - DOMAIN,szshort.weixin.qq.com,IP归属地 # 疑似微信视频号，用途未知
         # 无法确定准确的请求方式，建议全局代理
         # ======= 知乎 ======= #
         # 知乎
-        # - DOMAIN,zhihu-web-analytics.zhihu.com,IP归属地 # 知乎统计API域名
-        # - DOMAIN,www.zhihu.com,IP归属地 # 知乎主站域名，不存在单独有效的API域名
-        # - DOMAIN,api.zhihu.com,IP归属地 # 知乎API域名
+         - DOMAIN,zhihu-web-analytics.zhihu.com,IP归属地 # 知乎统计API域名
+         - DOMAIN,www.zhihu.com,IP归属地 # 知乎主站域名，不存在单独有效的API域名
+         - DOMAIN,api.zhihu.com,IP归属地 # 知乎API域名
          - DOMAIN-SUFFIX,zhihu.com,IP归属地 # 知乎全站域名，不包括图片CDN
          - IP-CIDR,103.41.167.0/24,IP归属地 # 网友提供知乎IP定位接口
         # ======= 国家反诈中心 ======= #
         # 国家反诈中心App
          - DOMAIN-SUFFIX,gjfzpt.cn,REJECT # 国家反诈中心域名，全部阻断
-        # - SRC-IP-CIDR,219.143.187.136/32,REJECT # 用途未知
+         - SRC-IP-CIDR,219.143.187.136/32,REJECT # 用途未知
         # ======= 抖音 ======= #
         # 抖音
         # 请求域名过多，建议全局代理
