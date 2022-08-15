@@ -1,6 +1,7 @@
 # 内容：Steam
 # 数量：7条
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstore-a.akamaihd.net
 DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
