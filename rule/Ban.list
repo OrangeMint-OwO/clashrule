@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
 #Wechat
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
