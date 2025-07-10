@@ -6,3 +6,5 @@ DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 #ReplayMod
 DOMAIN-SUFFIX,replaymod.com
+#Capttatsu
+DOMAIN-SUFFIX,capttatsu.com
