@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,chatgpt.com
 #Apple AI
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
+#ReplayMod
+DOMAIN-SUFFIX,replaymod.com
