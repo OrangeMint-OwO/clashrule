@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,ngtv.io
 DOMAIN-SUFFIX,warnermediacdn.com
 DOMAIN-SUFFIX,turner.com
 DOMAIN-SUFFIX,onetrust.io
+#YouTube TV
+DOMAIN-SUFFIX,tv.youtube.com
