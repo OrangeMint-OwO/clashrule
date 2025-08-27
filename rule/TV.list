@@ -1,6 +1,5 @@
 #CNN
-DOMAIN,atlas.ngtv.io
-DOMAIN,tvem.cdn.turner.com
-DOMAIN,mobile-data.onetrust.io
-DOMAIN,lightning.warnermediacdn.com
-DOMAIN,geo.ngtv.io
+DOMAIN-SUFFIX,ngtv.io
+DOMAIN-SUFFIX,warnermediacdn.com
+DOMAIN-SUFFIX,turner.com
+DOMAIN-SUFFIX,onetrust.io
