@@ -1,6 +1,8 @@
 #Apple AI
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
+DOMAIN,api2.smoot.apple.com
+DOMAIN,guzzoni.apple.com
 #ReplayMod
 DOMAIN-SUFFIX,replaymod.com
 #Capttatsu
