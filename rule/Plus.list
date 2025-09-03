@@ -1,10 +1,10 @@
 #DNS
-IP-CIDR,1.1.1.1/443,no-resolve
-IP-CIDR,1.1.1.1/53,no-resolve
-IP-CIDR,8.8.8.8/443,no-resolve
-IP-CIDR,8.8.8.8/53,no-resolve
-IP-CIDR,8.8.4.4/53,no-resolve
-IP-CIDR,8.8.4.4/53,no-resolve
+IP-CIDR,1.1.1.1/443
+IP-CIDR,1.1.1.1/53
+IP-CIDR,8.8.8.8/443
+IP-CIDR,8.8.8.8/53
+IP-CIDR,8.8.4.4/53
+IP-CIDR,8.8.4.4/53
 #Apple AI
 DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
