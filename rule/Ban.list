@@ -1,2 +1,9 @@
+#DNS
+IP-CIDR,119.29.29.29/443,no-resolve
+IP-CIDR,119.29.29.29/53,no-resolve
+IP-CIDR,114.114.114.114/443,no-resolve
+IP-CIDR,114.114.114.114/53,no-resolve
+IP-CIDR,223.5.5.5/53,no-resolve
+IP-CIDR,223.5.5.5/53,no-resolve
 #Paygo
 #DOMAIN-SUFFIX,3gppnetwork.org
