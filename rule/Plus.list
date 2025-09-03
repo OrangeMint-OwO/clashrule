@@ -7,6 +7,7 @@ DOMAIN,apple-relay.apple.com
 DOMAIN,apple-relay.cloudflare.com
 DOMAIN,api2.smoot.apple.com
 DOMAIN,guzzoni.apple.com
+DOMAIN,apple-gpt.apple.com
 #ReplayMod
 DOMAIN-SUFFIX,replaymod.com
 #Capttatsu
