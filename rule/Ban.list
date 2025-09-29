@@ -7,4 +7,6 @@ DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.pub
 #Bilibili 修复
+DOMAIN-SUFFIX,huahuo.bilibili.com
 DOMAIN-SUFFIX,cm.bilibili.com
+DOMAIN-SUFFIX,hdslb.com
