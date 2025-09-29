@@ -6,3 +6,5 @@ IP-CIDR,1.12.12.12/32
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.pub
+#Bilibili 修复
+DOMAIN-SUFFIX,cm.bilibili.com
