@@ -10,3 +10,9 @@ DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,replaymod.com
 #Capttatsu
 DOMAIN-SUFFIX,capttatsu.com
+#Google Play Fix
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-ira8j.com
+DOMAIN-SUFFIX,services.googleapis.com
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
