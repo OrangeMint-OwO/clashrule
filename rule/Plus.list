@@ -6,6 +6,8 @@ IP-CIDR,8.8.4.4/32
 DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
+#lmarena
+DOMAIN-SUFFIX,lmarena.ai
 #ReplayMod
 DOMAIN-SUFFIX,replaymod.com
 #Capttatsu
