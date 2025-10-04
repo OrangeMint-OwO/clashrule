@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,xn--ngstr-ira8j.com
 DOMAIN-SUFFIX,services.googleapis.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
+#steamcommunity Fix
+DOMAIN-SUFFIX,steamcommunity.com
