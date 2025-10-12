@@ -22,3 +22,5 @@ DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,clashmeta.org
 #Python
 DOMAIN-SUFFIX,python.org
+#Dbeaver
+DOMAIN-SUFFIX,dbeaver.io
