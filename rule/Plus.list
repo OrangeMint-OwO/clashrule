@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
 #Clash Meta
 DOMAIN-SUFFIX,clashmeta.org
+#Python
+DOMAIN-SUFFIX,python.org
