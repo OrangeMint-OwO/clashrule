@@ -4,6 +4,7 @@ IP-CIDR,8.8.8.8/32
 IP-CIDR,8.8.4.4/32
 #Apple AI
 DOMAIN-KEYWORD,apple-relay
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 #lmarena
