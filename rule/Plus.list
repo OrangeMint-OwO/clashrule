@@ -2,6 +2,8 @@
 IP-CIDR,1.1.1.1/32
 IP-CIDR,8.8.8.8/32
 IP-CIDR,8.8.4.4/32
+#Adobe AI
+DOMAIN-SUFFIX,firefly.adobe.com
 #Apple AI
 DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
