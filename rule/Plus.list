@@ -13,25 +13,19 @@ DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
-#Duolingo
-DOMAIN-SUFFIX,duolingo.com
-#lmarena
-DOMAIN-SUFFIX,lmarena.ai
-#ReplayMod
-DOMAIN-SUFFIX,replaymod.com
-#Capttatsu
-DOMAIN-SUFFIX,capttatsu.com
 #Google Play Fix
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-ira8j.com
 DOMAIN-SUFFIX,services.googleapis.com
 DOMAIN-SUFFIX,services.googleapis.cn
 DOMAIN-SUFFIX,googleapis.cn
-#Clash Meta
+#Other
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,lmarena.ai
+DOMAIN-SUFFIX,imgix.net
+DOMAIN-SUFFIX,replaymod.com
+DOMAIN-SUFFIX,capttatsu.com
 DOMAIN-SUFFIX,clashmeta.org
-#Python
 DOMAIN-SUFFIX,python.org
-#Dbeaver
 DOMAIN-SUFFIX,dbeaver.io
-#mythicalanimalcreation
 mythicalanimalcreation.com
