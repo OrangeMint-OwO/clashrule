@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,huahuo.bilibili.com
 DOMAIN-SUFFIX,cm.bilibili.com
 DOMAIN-SUFFIX,hdslb.com
+#BOCHK
+DOMAIN-SUFFIX,bochk.com
