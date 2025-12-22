@@ -1,7 +1,10 @@
 #CNN
-DOMAIN-SUFFIX,ngtv.io
-DOMAIN-SUFFIX,warnermediacdn.com
-DOMAIN-SUFFIX,turner.com
-DOMAIN-SUFFIX,onetrust.io
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnnarabic.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch
 #YouTube TV
 DOMAIN-SUFFIX,tv.youtube.com
+
