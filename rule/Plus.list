@@ -23,9 +23,10 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,quay.io
-# Steam community
+# Steam community proxy
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamusercontent.com
 #Other
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,lmarena.ai
