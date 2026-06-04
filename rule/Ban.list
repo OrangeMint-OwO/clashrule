@@ -6,6 +6,14 @@ IP-CIDR,1.12.12.12/32
 DOMAIN-SUFFIX,dns.alidns.com
 DOMAIN-SUFFIX,doh.360.cn
 DOMAIN-SUFFIX,doh.pub
+# Router hostnames
+DOMAIN,router.asus.com
+DOMAIN,asusrouter.com
+DOMAIN,miwifi.com
+DOMAIN-SUFFIX,miwifi.com
+# Time sync
+DOMAIN-SUFFIX,ntp.org.cn
+DOMAIN-SUFFIX,pool.ntp.org
 #Bilibili Fix
 DOMAIN-SUFFIX,huahuo.bilibili.com
 DOMAIN-SUFFIX,cm.bilibili.com
