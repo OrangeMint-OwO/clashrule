@@ -1,0 +1,5 @@
+# Apple Push Notification service
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,courier.push.apple.com
+DOMAIN,api.push.apple.com
+DOMAIN,api.development.push.apple.com
