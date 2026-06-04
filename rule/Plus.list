@@ -6,11 +6,6 @@ IP-CIDR,8.8.4.4/32
 DOMAIN,firefly.adobe.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,adobeccstatic.com
-# Developer and container registries
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,quay.io
 #Apple AI
 DOMAIN-KEYWORD,apple-relay
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
@@ -23,6 +18,18 @@ DOMAIN-SUFFIX,apple-relay.cloudflare.com
 # Finance outside the built-in Binance rule
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,tradingview.com
+# Developer and container registries
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,quay.io
+# Steam downloads
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN,client-download.steampowered.com
+DOMAIN,media.steampowered.com
+DOMAIN-SUFFIX,steamchina.com
 #Other
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,lmarena.ai
