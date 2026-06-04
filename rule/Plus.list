@@ -23,13 +23,9 @@ DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,quay.io
-# Steam downloads
-DOMAIN-SUFFIX,steamcontent.com
-DOMAIN-SUFFIX,steamserver.net
-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-DOMAIN,client-download.steampowered.com
-DOMAIN,media.steampowered.com
-DOMAIN-SUFFIX,steamchina.com
+# Steam community
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steam-chat.com
 #Other
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,lmarena.ai
