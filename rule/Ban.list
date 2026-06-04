@@ -18,6 +18,13 @@ DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
 DOMAIN,client-download.steampowered.com
 DOMAIN,media.steampowered.com
 DOMAIN-SUFFIX,steamchina.com
+# Steam download direct
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN,client-download.steampowered.com
+DOMAIN,media.steampowered.com
+DOMAIN-SUFFIX,steamchina.com
 # Time sync
 DOMAIN-SUFFIX,ntp.org.cn
 DOMAIN-SUFFIX,pool.ntp.org
