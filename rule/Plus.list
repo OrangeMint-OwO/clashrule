@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamusercontent.com
 #Other
+DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,duolingo.com
 DOMAIN-SUFFIX,lmarena.ai
 DOMAIN-SUFFIX,imgix.net
