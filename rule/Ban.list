@@ -38,3 +38,5 @@ DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,todesk.com.cn
 DOMAIN-KEYWORD,todesk
+# Canva CN 直连
+DOMAIN-KEYWORD,canva.cn
