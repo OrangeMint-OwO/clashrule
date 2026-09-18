@@ -27,6 +27,12 @@ DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steam-chat.com
 DOMAIN-SUFFIX,steamusercontent.com
+# Notion
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notionusercontent.com
+DOMAIN-SUFFIX,notion-static.com
 #Other
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,duolingo.com
